@@ -11,3 +11,7 @@ print("HOLA MUNDO")
 # Changes to be committed:
 #	modified:   ejercicio1.py
 print("HOLA MUNDO")
+print("HOLA MUNDO"
+      )
+print("HOLA MUNDO")
+print("HOLA MUNDO")
