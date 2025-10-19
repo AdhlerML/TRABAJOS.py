@@ -4,6 +4,9 @@
 
 # PRESENTACION DE EVALUACION_UTP 2
 
+https://github.com/AdhlerML/TRABAJOS.py/tree/main/Practica%20Calificada%202
+
+
 Este proyecto realiza la limpieza, transformación, análisis y visualización de datos provenientes de sensores, con el objetivo de generar reportes y gráficos útiles para la evaluación de temperatura.
 
 1. Limpieza de datos
